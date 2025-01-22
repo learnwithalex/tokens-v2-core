@@ -80,7 +80,7 @@
     defer-to-connect "^1.0.1"
 
 "@tokens/v2-core@file:":
-  version "1"
+  version "1.0.0"
   resolved "file:"
   dependencies:
     "@tokens/v2-core" "file:"
@@ -146,7 +146,7 @@
   integrity sha512-UmUm94/QZvU5xLcUlNR8hA7Ac+fGpO1EG/a8bcWVz0P0LqtxFmun9Y2bbtuckwGboWJIT70DoWq1r3hb56n3DA==
 
 "@uniswap/v2-core@file:":
-  version "1"
+  version "1.0.0"
   resolved "file:"
   dependencies:
     "@tokens/v2-core" "file:"
